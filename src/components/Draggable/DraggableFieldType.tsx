@@ -1,4 +1,3 @@
-// src/components/DraggableFieldType.tsx
 import React from 'react';
 import { useDrag } from 'react-dnd';
 import { ItemTypes } from '@/types/form.types';
